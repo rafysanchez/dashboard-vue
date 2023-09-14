@@ -143,3 +143,4 @@ export default {
   @apply bg-gray-200 text-gray-800
 }
 </style>
+
